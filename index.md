@@ -14,4 +14,7 @@ More information soon.
 MaLeo OS can be installed from USB flash, but make sure that it's not done
 You can't download it at this moment.
 
-### 
+### Contributors
+
+Founder - Maksymal
+Co-Founder - Infinabit
