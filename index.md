@@ -3,9 +3,10 @@
 This is not only a desktop, this is a new operating system.
 The MaLeo OS is about develop soon.
 
-### Markdown
+### About MaLeo OS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+MaLeo OS will be based on Arch Linux. This operating system is made only for fun.
+More information soon.
 
 ```markdown
 Syntax highlighted code block
