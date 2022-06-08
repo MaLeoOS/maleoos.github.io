@@ -8,22 +8,25 @@ The MaLeo OS is about develop soon.
 MaLeo OS will be based on Arch Linux. This operating system is made only for fun.
 More information soon.
 
+
+### Installation Guide
+
+The OS is based on Arch Linux, so installation will be the same as a Arch Linux.
+MaLeo OS can be installed from USB flash.
+
+Verify signature
+It is recommended to verify the image signature before use, especially when downloading from an HTTP mirror, where downloads are generally prone to be intercepted to serve malicious images.
+
+On a system with GnuPG installed, do this by downloading the PGP signature (under Checksums in the Download page) to the ISO directory, and verifying it with:
+
 ```markdown
-Syntax highlighted code block
+$ gpg --keyserver-options auto-key-retrieve --verify archlinux-version-x86_64.iso.sig
+```
 
-# Header 1
-## Header 2
-### Header 3
+Alternatively, from an existing Arch Linux installation run:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```markdown
+$ pacman-key -v archlinux-version-x86_64.iso.sig
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
