@@ -1,6 +1,6 @@
 ## MaLeo OS
 
-This is not only desktop, this is new operating system.
+This is not only a desktop, this is a new operating system.
 The MaLeo OS is about develop soon.
 
 ### Markdown
